@@ -1,0 +1,73 @@
+$(document).ready(function (){
+	$('#img2').mouseenter(function(){
+		$('#text1').show();
+	});
+	$('#img3').mouseenter(function(){
+		$('#text2').show();
+	});
+	$('#img4').mouseenter(function(){
+		$('#text3').show();
+	});
+	$('#img5').mouseenter(function(){
+		$('#text4').show();
+	});
+	$('#img6').mouseenter(function(){
+		$('#text5').show();
+	});
+	
+	$('#text1').mouseenter(function(){
+		$('#text1').show();
+	});
+	$('#text2').mouseenter(function(){
+		$('#text2').show();
+	});
+	$('#text3').mouseenter(function(){
+		$('#text3').show();
+	});
+	$('#text4').mouseenter(function(){
+		$('#text4').show();
+	});
+	$('#text5').mouseenter(function(){
+		$('#text5').show();
+	});
+	
+	$('#img2').mouseleave(function(){
+		$('#text1').hide();
+	});
+	$('#img3').mouseleave(function(){
+		$('#text2').hide();
+	});
+	$('#img4').mouseleave(function(){
+		$('#text3').hide();
+	});
+	$('#img5').mouseleave(function(){
+		$('#text4').hide();
+	});
+	$('#img6').mouseleave(function(){
+		$('#text5').hide();
+	});
+	
+	$('#text1').mouseleave(function(){
+		$('#text1').hide();
+	});
+	$('#text2').mouseleave(function(){
+		$('#text2').hide();
+	});
+	$('#text3').mouseleave(function(){
+		$('#text3').hide();
+	});
+	$('#text4').mouseleave(function(){
+		$('#text4').hide();
+	});
+	$('#text5').mouseleave(function(){
+		$('#text5').hide();
+	});
+});
+
+$(function(){
+	$('#text1').hide();
+	$('#text2').hide();
+	$('#text3').hide();
+	$('#text4').hide();
+	$('#text5').hide();
+});

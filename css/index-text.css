@@ -1,0 +1,44 @@
+#text1{
+	width: 120px;
+	height: 144px;
+	background-color: rgba(255, 94, 0, 0.78);
+	position:absolute;
+	top:0px;
+	left:300px;
+}
+
+#text2{
+	width: 120px;
+	height: 48px;
+	background-color: rgba(255, 94, 0, 0.78);
+	position:absolute;
+	top: 120px;
+	left: 405px;
+}
+
+#text3{
+	width: 120px;
+	height: 48px;
+	background-color: rgba(255, 94, 0, 0.78);
+	position:absolute;
+	top: 232px;
+	left: 470px;
+}
+
+#text4{
+	width: 150px;
+	height: 48px;
+	background-color: rgba(255, 94, 0, 0.78);
+	position:absolute;
+	top: 347px;
+	left: 405px;
+}
+
+#text5{
+	width: 150px;
+	height: 72px;
+	background-color: rgba(255, 94, 0, 0.78);
+	position:absolute;
+	top: 410px;
+	left: 300px;
+}
