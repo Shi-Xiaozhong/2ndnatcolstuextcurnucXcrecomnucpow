@@ -6,7 +6,6 @@
 	top: 124px;
 	left: 60px;
 	border-radius: 100%;
-	
 	font-size:60px;
 	text-align: center;
 	padding-top: 88px;
@@ -20,6 +19,9 @@
 	top: 0px;
 	left: 180px;
 	border-radius: 100%;
+	font-size:20px;
+	text-align: center;
+	padding-top: 44px;
 }
 
 #img3{
@@ -30,6 +32,9 @@
 	top: 80px;
 	left: 285px;
 	border-radius: 100%;
+	font-size:20px;
+	text-align: center;
+	padding-top: 44px;
 }
 
 #img4{
@@ -40,6 +45,9 @@
 	top: 192px;
 	left: 350px;
 	border-radius: 100%;
+	font-size:20px;
+	text-align: center;
+	padding-top: 34px;
 }
 
 #img5{
@@ -50,6 +58,9 @@
 	top: 307px;
 	left: 285px;
 	border-radius: 100%;
+	font-size:20px;
+	text-align: center;
+	padding-top: 34px;
 }
 
 #img6{
@@ -60,4 +71,7 @@
 	top: 384px;
 	left: 180px;
 	border-radius: 100%;
+	font-size:20px;
+	text-align: center;
+	padding-top: 44px;
 }
