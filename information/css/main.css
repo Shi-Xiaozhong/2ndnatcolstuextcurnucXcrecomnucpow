@@ -10,6 +10,8 @@ background-image: url("../img/bgi.jpg");
 background-attachment: fixed;
 background-size:cover;
 color: #000;
+height: 720px;
+overflow-right: auto;
 }
 
 a{
@@ -42,7 +44,7 @@ margin: 0 auto;
 position: relative;
 top: 0;
 left: 0;
-height: 120px;
+height: 114px;
 width: 994px;
 font-size:25px;
 background: url("../img/1.jpg") no-repeat;
@@ -73,7 +75,6 @@ color: #000;
 #left > div {
 background: url("../img/3.jpg") no-repeat;
 cursor: pointer;
-/*  background-size: ;  */
 }
 
 #left > a {
@@ -88,6 +89,8 @@ background-color: #ffeb3b;
 #right {
 float: left;
 width: 768px;
+height: 504px;
+overflow: auto;
 background-color: rgba(56, 138, 138, 0.5);
 }
 
@@ -99,4 +102,17 @@ padding: 20px;
 margin: 10px 0;
 text-indent: 2em;
 line-height: 32px;
+}
+
+#buttom
+{
+	position:absolute;
+	background-color: #00bcd4;
+	font-size: 25px;
+	font-color: red;
+	height: 72px;
+	width:768px;
+	color: white;
+	top:648px;
+	left:420px;
 }
